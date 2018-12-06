@@ -1,0 +1,18 @@
+{
+	"goods":[
+{"_id":{"$oid":"5ad7fefdfe19774d8386b962"},"goodsImg":"../../static/img/a1.jpg","goodsName":"香辣鸡腿堡","price":18,"goodType":1,"goodOfften":1,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b98d"},"goodsImg":"../../static/img/pos002.jpg","goodsName":"川香鸡腿堡","price":16,"goodType":1,"goodOfften":1,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b98f"},"goodsImg":"../../static/img/pos003.jpg","goodsName":"汉堡套餐","price":24,"goodType":0,"goodOfften":0,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b991"},"goodsImg":"../../static/img/pos004.jpg","goodsName":"鸡肉卷","price":14,"goodType":1,"goodOfften":0,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b993"},"goodsImg":"../../static/img/pos005.jpg","goodsName":"番茄炒蛋盖饭","price":18,"goodType":2,"goodOfften":1,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b995"},"goodsImg":"../../static/img/pos006.jpg","goodsName":"辣子鸡盖饭","price":23,"goodType":2,"goodOfften":0,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b997"},"goodsImg":"../../static/img/pos007.jpg","goodsName":"鸡排饭","price":21,"goodType":2,"goodOfften":1,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b999"},"goodsImg":"../../static/img/pos008.jpg","goodsName":"香辣牛肉盖饭","price":24,"goodType":2,"goodOfften":0,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b99b"},"goodsImg":"../../static/img/pos009.jpg","goodsName":"香辣鸡翅","price":8,"goodType":3,"goodOfften":1,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b99d"},"goodsImg":"../../static/img/pos010.jpg","goodsName":"鸡排","price":10,"goodType":3,"goodOfften":0,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b99f"},"goodsImg":"../../static/img/pos011.jpg","goodsName":"雪碧","price":4,"goodType":4,"goodOfften":0,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b9a1"},"goodsImg":"../../static/img/pos012.jpg","goodsName":"可乐","price":4,"goodType":4,"goodOfften":1,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b9a3"},"goodsImg":"../../static/img/pos013.jpg","goodsName":"橙汁","price":4,"goodType":4,"goodOfften":1,"count":1},
+{"_id":{"$oid":"5ad8008cfe19774d8386b9a5"},"goodsImg":"../../static/img/pos014.jpg","goodsName":"咖啡","price":4,"goodType":4,"goodOfften":0,"count":1}
+	]
+}
